@@ -42,6 +42,8 @@ Khala 的核心特点包括：
 
 ## 📰 News
 
+- `⚠️ [2026-05-07]` 我们发现了一个可能显著影响推理质量的问题，目前怀疑与数值精度有关。该问题正在排查和修复中，在此通知移除前，请谨慎看待当前版本的生成质量。
+
 ### ✅ 已更新
 
 - `[2026-05-05]` arXiv 论文已上线：[Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation](https://arxiv.org/abs/2605.01790)

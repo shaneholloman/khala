@@ -42,6 +42,8 @@ The core characteristics of Khala include:
 
 ## 📰 News
 
+- `⚠️ [2026-05-07]` We have identified a potential issue that may significantly affect inference quality. The problem is currently under investigation and may be related to numerical precision. Until this notice is removed, please treat current generation quality as unstable.
+
 ### ✅ Updated
 
 - `[2026-05-05]` The arXiv paper is now available: [Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation](https://arxiv.org/abs/2605.01790)
