@@ -10,7 +10,9 @@ English | [中文](./README_zh.md)
 
 <div align="center">
 
-<img alt="Demo" src="https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Coming%20Soon-gray">
+<a href="https://khala-music-ai.github.io/Khala-demo/">
+  <img alt="Demo" src="https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Online-brightgreen">
+</a>
 
 <a href="https://arxiv.org/abs/2605.01790">
   <img alt="Paper" src="https://img.shields.io/badge/%F0%9F%93%84%20Paper-arXiv-b31b1b">
@@ -46,6 +48,7 @@ The core characteristics of Khala include:
 
 ### ✅ Updated
 
+- `[2026-05-16]` The online audio demo page is now available: [Khala Demo](https://khala-music-ai.github.io/Khala-demo/)
 - `[2026-05-11]` Backend inference launch now supports single-GPU safe startup by default, plus multi-GPU and runtime-mode overrides for deployment compatibility.
 - `[2026-05-05]` The arXiv paper is now available: [Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation](https://arxiv.org/abs/2605.01790)
 - `[2026-05-01]` The codebase, environment documentation, and Dockerfile have been cleaned up for release.
@@ -63,7 +66,7 @@ The core characteristics of Khala include:
 
 ### 🎧 Audio Samples
 
-The audio demo page is still under construction and will be released soon.
+Listen to generated samples on the online demo page: [Khala Demo](https://khala-music-ai.github.io/Khala-demo/)
 
 ## ✅ Runtime Requirements
 
@@ -174,7 +177,7 @@ flowchart LR
 
 ## 🔗 Project Resources
 
-- Demo page: Coming Soon
+- Demo page: [Khala Demo](https://khala-music-ai.github.io/Khala-demo/)
 - arXiv paper: [Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation](https://arxiv.org/abs/2605.01790)
 - Model weights: https://huggingface.co/liujiafeng/Khala-MusicGeneration-v1.0
 - Environment setup: [ENVIRONMENT_SETUP.md](./ENVIRONMENT_SETUP.md)

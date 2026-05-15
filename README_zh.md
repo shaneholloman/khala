@@ -10,7 +10,9 @@
 
 <div align="center">
 
-<img alt="Demo" src="https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Coming%20Soon-gray">
+<a href="https://khala-music-ai.github.io/Khala-demo/">
+  <img alt="Demo" src="https://img.shields.io/badge/%F0%9F%8E%A7%20Demo-Online-brightgreen">
+</a>
 
 <a href="https://arxiv.org/abs/2605.01790">
   <img alt="Paper" src="https://img.shields.io/badge/%F0%9F%93%84%20Paper-arXiv-b31b1b">
@@ -46,6 +48,7 @@ Khala 的核心特点包括：
 
 ### ✅ 已更新
 
+- `[2026-05-16]` 在线音频 Demo 页面已上线：[Khala Demo](https://khala-music-ai.github.io/Khala-demo/)
 - `[2026-05-11]` 已支持默认单卡安全启动，并兼容通过同一后端脚本覆盖多卡与不同运行模式的部署推理配置。
 - `[2026-05-05]` arXiv 论文已上线：[Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation](https://arxiv.org/abs/2605.01790)
 - `[2026-05-01]` 代码、环境配置文档与 Dockerfile 已整理完成。
@@ -63,7 +66,7 @@ Khala 的核心特点包括：
 
 ### 🎧 音频样例
 
-音频样例页面正在制作中，将于近期上线。
+在线 Demo 页面已提供生成音频样例：[Khala Demo](https://khala-music-ai.github.io/Khala-demo/)
 
 ## ✅ 运行要求
 
@@ -174,7 +177,7 @@ flowchart LR
 
 ## 🔗 相关资源
 
-- Demo 页面：Coming Soon
+- Demo 页面：[Khala Demo](https://khala-music-ai.github.io/Khala-demo/)
 - arXiv 论文：[Khala: Scaling Acoustic Token Language Models Toward High-Fidelity Music Generation](https://arxiv.org/abs/2605.01790)
 - 模型权重：https://huggingface.co/liujiafeng/Khala-MusicGeneration-v1.0
 - 环境配置：[ENVIRONMENT_SETUP_zh.md](./ENVIRONMENT_SETUP_zh.md)
